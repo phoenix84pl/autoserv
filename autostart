@@ -1,0 +1,7 @@
+sudo apt update -y && sudo apt upgrade -y
+sudo apt autoclean -y
+sudo apt autoremove -y
+sudo apt dist-upgrade -y
+sudo apt install -y autoconf autogen
+sudo cp bin/autogit			/usr/bin
+
